@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "id": "update-required-5.4",
   "type": "update_required",
   "badge": "Update Required",
