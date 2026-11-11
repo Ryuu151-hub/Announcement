@@ -1,16 +1,14 @@
-
 {
-  "id": "update-required-v4",
+  "id": "update-required-5.4",
   "type": "update_required",
   "badge": "Update Required",
   "headline": "New Version Available",
-  "subtext": "You're on an older build. Update to the latest version to keep every feature working.",
-  "versionFrom": "v3",
-  "versionTo": "v4",
+  "subtext": "You're on an older build. Update to 5.4 to keep every feature working.",
+  "versionFrom": "5.3",
+  "versionTo": "5.4",
   "cta": {
     "label": "Download Update",
     "url": "https://t.me/loverielle76"
   },
   "footnote": "1DLERYU STUDIO"
 }
-
